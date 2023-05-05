@@ -25,3 +25,5 @@ Sviluppare:
 - il metodo int Rimanenti( int mattoni ) che torna il numero di mattoni rimasti dopo la costruzione
 
 
+Bisogna risolvere questo problema test based affinchè faccia ciò che richiede la traccia.
+
